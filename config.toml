@@ -1,0 +1,6 @@
+baseurl = "http://arvinsim.github.io/artem"
+languageCode = "en-us"
+title = "Ars longa, vita brevis"
+
+[params]
+    description = "Art is long, life is short"
