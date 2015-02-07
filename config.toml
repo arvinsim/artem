@@ -1,6 +1,15 @@
 baseurl = "http://arvinsim.github.io/artem"
-languageCode = "en-us"
 title = "Ars longa, vita brevis"
+languageCode = "en-us"
+
+[taxonomies]
+    tag = "tags"
+    article-type = "article-types"
+    discipline = "disciplines"
+
+[author]
+    name = "Arthur Vincent Simon"
 
 [params]
     description = "Art is long, life is short"
+    themeColor = "theme-dark-blue"
