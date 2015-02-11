@@ -3,7 +3,7 @@
   <channel>
       <title>Non-Fiction on Ars longa, vita brevis </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://arvinsim.github.io/artem/tags/non-fiction/index.xml/</link>
+    <link>http://localhost:1313/artem/tags/non-fiction/index.xml/</link>
     <language>en-us</language>
     <author>Arthur Vincent Simon</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>The War of Art</title>
-      <link>http://arvinsim.github.io/artem/literary/the-war-of-art-book-review/</link>
+      <link>http://localhost:1313/artem/literary/the-war-of-art-book-review/</link>
       <pubDate>Mon, 02 Feb 2015 22:42:59 PHT</pubDate>
       <author>Arthur Vincent Simon</author>
-      <guid>http://arvinsim.github.io/artem/literary/the-war-of-art-book-review/</guid>
+      <guid>http://localhost:1313/artem/literary/the-war-of-art-book-review/</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;Details&lt;/h2&gt;

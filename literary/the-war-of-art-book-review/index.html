@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-min.css">
 
 <link href='http://fonts.googleapis.com/css?family=Ubuntu|Cinzel' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="http://arvinsim.github.io/artem/css/main.css">
+<link rel="stylesheet" href="http://localhost:1313/artem/css/main.css">
 
     </head>
     <body class="theme-dark-blue">
@@ -21,7 +21,7 @@
             <div class="sidebar pure-u-1 pure-u-md-1-4">
                 <div class="header">
     <div class="site-logo">＿〆(。。)</div>
-    <h1 class="site-title"><a href="http://arvinsim.github.io/artem">Ars longa, vita brevis</a></h1>
+    <h1 class="site-title"><a href="http://localhost:1313/artem">Ars longa, vita brevis</a></h1>
     <h2 class="site-subtitle">Art is long, life is short</h2>
     <footer>
     &copy; 2015 All Rights Reserved.
@@ -37,15 +37,15 @@
                     <ul class="tags">
                         
                         <li>
-                        <a href="http://arvinsim.github.io/artem/tags/non-fiction" class="button-small pure-button">non-fiction</a>
+                        <a href="http://localhost:1313/artem/tags/non-fiction" class="button-small pure-button">non-fiction</a>
                         </li>
                         
                         <li>
-                        <a href="http://arvinsim.github.io/artem/tags/productivity" class="button-small pure-button">productivity</a>
+                        <a href="http://localhost:1313/artem/tags/productivity" class="button-small pure-button">productivity</a>
                         </li>
                         
                         <li>
-                        <a href="http://arvinsim.github.io/artem/tags/motivational" class="button-small pure-button">motivational</a>
+                        <a href="http://localhost:1313/artem/tags/motivational" class="button-small pure-button">motivational</a>
                         </li>
                         
                     </ul>
@@ -106,5 +106,8 @@
                 </section>
             </div>
         </div>
-    </body>
+    <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
