@@ -4,10 +4,11 @@ title = "Starting Vector Art"
 description = "My first foray into Vector Art"
 article-type = ["blog"]
 discipline = ["visual", "drawing"]
+tags = ["vector"]
 slug = "starting-vector-art"
 +++
 
-## The proverbial itch
+## The other side of the fence
 
 I have always been fascinated with the Internet. The process of creating a website has always involved both disciplines. A beautiful website needs to execerise both the creative and logical.
 
@@ -47,8 +48,14 @@ I always smile when I see pixel art. But I will just enjoy looking at rather tha
 
 In the end, this is the one that I chose.
 
-- *I don't need to have a tablet*. People can create amazing vector with just a mouse.
-- *Assets created in vector art can be resized to fit any resolution*. I will be designing sites with an eye on mobile.
+- *I don't need to have a tablet*. 
+
+    People can create amazing vector with just a mouse.
+
+- *Assets created in vector art can be resized to fit any resolution*.
+
+    I will be designing sites with an eye on mobile.
+
 - *Vector art lends itself well to flat design*. 
 
 [Examples](http://imgur.com/gallery/OJAWz)
@@ -58,11 +65,11 @@ In the end, this is the one that I chose.
 Based on my research, there are only really 2 contenders for this.
 
 - [Adobe Illustrator](http://www.adobe.com/products/illustrator.html)
-- + Industry Standard
-- - Very Expensive
+    - + Industry Standard
+    - - Very Expensive
 - [Inkscape](https://inkscape.org/en/)
-- + Free
-- - Not a good choice if you are going for a professional career in Vector art
+    - + Free
+    - - Not a good choice if you are going for a professional career in Vector art
 
 Since I am just getting my feet wet with vector graphics, it is better to start with just the free option.
 

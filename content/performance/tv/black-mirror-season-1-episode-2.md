@@ -4,6 +4,7 @@ title = "Black Mirror Season 1 Episode 2"
 description = "A bleak dystopia with reality tv, apps and pron!"
 article-type = ["review"]
 discipline = ["performance", "tv"]
+tags = ["tv", "british"]
 slug = "black-mirror-season-1-episode-2"
 +++
 

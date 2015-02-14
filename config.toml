@@ -1,6 +1,7 @@
 baseurl = "http://arvinsim.github.io/artem"
 title = "Ars longa, vita brevis"
 languageCode = "en-us"
+theme = "hugo-theme-artem"
 
 [taxonomies]
     tag = "tags"
@@ -12,4 +13,3 @@ languageCode = "en-us"
 
 [params]
     description = "Art is long, life is short"
-    themeColor = "theme-dark-blue"
