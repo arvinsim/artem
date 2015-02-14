@@ -1,54 +1,48 @@
 /* Colors */
+* {
+  box-sizing: border-box; }
+
+html, button, input, select, textarea {
+  font-family: 'Ubuntu', sans-serif; }
+
+body {
+  background-color: #ECF8FF;
+  color: #00111B; }
+
+a {
+  color: #FE8C47;
+  text-decoration: none; }
+
 /* Yahoo Pure CSS Overrides */
 .button-small {
   font-size: 0.75em; }
 
-/* Main */
-* {
-  box-sizing: border-box; }
-
-html, button, input, select, textarea, .pure-g [class*="pure-u"] {
+.pure-g [class*="pure-u"] {
   font-family: 'Ubuntu', sans-serif; }
-
-body {
-  background-color: #DBDBDB;
-  color: #031B40; }
-  body pre {
-    margin: 2em 0px; }
-    body pre code {
-      font-family: monospace;
-      color: #DBDBDB;
-      background-color: #034009;
-      box-sizing: padding-box;
-      padding: 2em 2em;
-      border-radius: 3px; }
 
 .sidebar {
   background-color: #031B40;
-  color: #DBDBDB; }
-  .sidebar .header {
-    text-align: right; }
-    .sidebar .header .site-logo {
-      font-size: 2em; }
-    .sidebar .header .site-title a {
-      font-family: 'Cinzel', 'Ubuntu', sans-serif;
-      font-size: 2em;
-      text-decoration: none;
-      color: inherit; }
+  color: #ECF8FF;
+  text-align: right; }
+  .sidebar .header .site-logo {
+    font-size: 2em; }
+  .sidebar .header .site-title a {
+    font-family: 'Cinzel', 'Ubuntu', sans-serif;
+    font-size: 2em; }
+  .sidebar .header .site-description {
+    font-family: 'Cinzel', 'Ubuntu', sans-serif; }
+  .sidebar .menu {
+    text-align: left; }
+    .sidebar .menu ul li {
+      list-style-type: none; }
 
+.main-content a {
+  color: #ab4101; }
 .main-content p {
   text-align: justify; }
 .main-content .post h1 {
   font-family: 'Cinzel';
-  font-size: 3em;
-  margin: 0px; }
-  .main-content .post h1 a {
-    text-decoration: none;
-    color: #034009; }
-.main-content .post a {
-  text-decoration: none;
-  /*color: @dark-green;*/
-  color: #40031B; }
+  font-size: 3em; }
 .main-content .post .post-date {
   font-style: italic; }
 .main-content .post .tags {
@@ -66,8 +60,7 @@ body {
     .main-content.homepage .post .title a, .main-content.taxonomy .post .title a {
       font-family: 'Cinzel';
       font-weight: bold;
-      color: #031B40;
-      text-decoration: none; }
+      color: #00111B; }
   .main-content.homepage .post .title:hover .select-indicator, .main-content.taxonomy .post .title:hover .select-indicator {
     visibility: visible; }
   .main-content.homepage .post .post-date, .main-content.taxonomy .post .post-date {
@@ -93,5 +86,5 @@ body {
     position: fixed;
     top: 0;
     bottom: 0; }
-    .sidebar .header {
+    .sidebar > * {
       margin: 10% 2em 0; } }
