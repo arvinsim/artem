@@ -28,7 +28,7 @@ a {
     font-size: 2em; }
   .sidebar .header .site-title a {
     font-family: 'Cinzel', 'Ubuntu', sans-serif;
-    font-size: 2em; }
+    font-size: 1em; }
   .sidebar .header .site-description {
     font-family: 'Cinzel', 'Ubuntu', sans-serif; }
   .sidebar .menu {
@@ -86,5 +86,8 @@ a {
     position: fixed;
     top: 0;
     bottom: 0; }
-    .sidebar > * {
-      margin: 10% 2em 0; } }
+    .sidebar > .container {
+      margin: 10% 2em 0;
+      line-height: 1em; }
+      .sidebar > .container > .header, .sidebar > .container > .contact, .sidebar > .container > footer {
+        margin: 3em 0; } }
