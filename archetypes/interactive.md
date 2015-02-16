@@ -1,6 +1,6 @@
 +++
 description = ""
-article-type = []
+article-type = [""]
 discipline = ["interactive"]
 draft = true
 +++

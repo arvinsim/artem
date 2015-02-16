@@ -1,6 +1,6 @@
 +++
 description = ""
 article-type = [""]
-discipline = ["literary"]
+discipline = ["culinary"]
 draft = true
 +++
