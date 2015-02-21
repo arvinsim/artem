@@ -10,7 +10,7 @@ slug = "starting-vector-art"
 
 ## The other side of the fence
 
-I have always been fascinated with the Internet. The process of creating a website has always involved both disciplines. A beautiful website needs to execerise both the creative and logical.
+I have always been fascinated with the Internet. The process of creating a website has always involved both disciplines. A beautiful website needs to exercise both the creative and logical.
 
 I am only familiar with the coding side of the equation as a web developer. I haven't explored the visual aspects of creating a website. 
 
@@ -32,7 +32,7 @@ I believe that to create digital paintings, you need a drawing tablet. Unfortuna
 
 Unfortunately, I will pass on this one.
 
-[Examples](http://imgur.com/gallery/Z8xkYpC)
+![Examples](http://i.imgur.com/Z8xkYpC.jpg)
 
 ### [Pixel Art](http://en.wikipedia.org/wiki/Pixel_art)
 
@@ -42,7 +42,7 @@ But creating it takes a lot of hard work and dedication. Resizing it to fit many
 
 I always smile when I see pixel art. But I will just enjoy looking at rather than creating it when it comes to the web.
 
-[Examples](http://imgur.com/gallery/0AnOW)
+![Examples](https://i.imgur.com/eKkBRUb.png)
 
 ### [Vector Art](http://en.wikipedia.org/wiki/Vector_graphics)
 
@@ -58,20 +58,25 @@ In the end, this is the one that I chose.
 
 - *Vector art lends itself well to flat design*. 
 
-[Examples](http://imgur.com/gallery/OJAWz)
+![Examples](http://i.imgur.com/Jtwcp1g.png)
 
 ## Choosing what software to use
 
 Based on my research, there are only really 2 contenders for this.
 
-- [Adobe Illustrator](http://www.adobe.com/products/illustrator.html)
-    - + Industry Standard
-    - - Very Expensive
-- [Inkscape](https://inkscape.org/en/)
-    - + Free
-    - - Not a good choice if you are going for a professional career in Vector art
+### [Adobe Illustrator](http://www.adobe.com/products/illustrator.html)
+- Pro
+    - Industry Standard
+- Con
+    - Very Expensive
 
-Since I am just getting my feet wet with vector graphics, it is better to start with just the free option.
+### [Inkscape](https://inkscape.org/en/)
+- Pro
+    - Free
+- Con
+    - Not a good choice if you are going for a professional career in Vector art
+
+Since I am just getting my feet wet with vector graphics, it is better to start with the free option.
 
 Inkscape it is!
 
@@ -81,4 +86,4 @@ I decided to just spice up the background of my [github organization page](http:
 
 I used triangles and squares to create a simple mosaic background.
 
-[Vector Art 1](http://i.imgur.com/ln01b2N.png)
+![Vector Art 1](http://i.imgur.com/ln01b2N.png)
