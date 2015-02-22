@@ -4,7 +4,7 @@ title = "Words from the Three Tools of Death"
 description = "Lots of new words from a story of my favorite chap, G.K. Chesterton"
 slug = "logophilia-january-31-2015"
 discipline = ["literary"]
-article-type = ["logophilia"]
+articleType = ["logophilia"]
 tags = ["GK-Chesterton", "three-tools-of-death", "book"]
 +++
 

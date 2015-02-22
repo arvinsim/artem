@@ -4,9 +4,9 @@ languageCode = "en-us"
 theme = "hugo-theme-artem"
 
 [taxonomies]
-    tag = "tags"
-    article-type = "article-types"
+    articleType = "articleTypes"
     discipline = "disciplines"
+    tag = "tags"
 
 [author]
     name = "Arthur Vincent Simon"

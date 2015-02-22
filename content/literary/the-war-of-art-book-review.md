@@ -4,7 +4,7 @@ title = "The War of Art"
 description = "A book review on the The War of Art book"
 slug = "the-war-of-art-book-review"
 discipline = ["literary"]
-article-type = ["book-review"]
+articleType = ["book-review"]
 tags = ["non-fiction", "productivity", "motivational"]
 +++
 

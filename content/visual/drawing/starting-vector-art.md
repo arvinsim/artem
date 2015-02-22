@@ -2,7 +2,7 @@
 date = "2015-02-08T15:44:55+08:00"
 title = "Starting Vector Art"
 description = "My first foray into Vector Art"
-article-type = ["blog"]
+articleType = ["blog"]
 discipline = ["visual", "drawing"]
 tags = ["vector"]
 slug = "starting-vector-art"
