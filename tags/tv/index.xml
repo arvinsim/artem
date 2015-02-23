@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Tv on Ars longa, vita brevis </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://arvinsim.github.io/artem/tags/tv/index.xml/</link>
+    <title>Tv on Ars longa, vita brevis</title>
+    <link>http://arvinsim.github.io/artem/tags/tv/</link>
+    <description>Recent content in Tv on Ars longa, vita brevis</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>Arthur Vincent Simon</author>
-    
-    <updated>Tue, 03 Feb 2015 15:00:15 PHT</updated>
+    <lastBuildDate>Tue, 03 Feb 2015 15:00:15 +0800</lastBuildDate>
+    <atom:link href="http://arvinsim.github.io/artem/tags/tv/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Black Mirror Season 1 Episode 2</title>
       <link>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-2/</link>
-      <pubDate>Tue, 03 Feb 2015 15:00:15 PHT</pubDate>
-      <author>Arthur Vincent Simon</author>
+      <pubDate>Tue, 03 Feb 2015 15:00:15 +0800</pubDate>
+      
       <guid>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-2/</guid>
       <description>
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Details&lt;/h2&gt;
+&lt;h2 id=&#34;details:f809e3f55e3fcaeb9cf53f6bad8ec67c&#34;&gt;Details&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Title: &lt;strong&gt;Five Million Credits&lt;/strong&gt;&lt;/li&gt;
@@ -25,7 +25,7 @@
 &lt;li&gt;Season: 1&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Description&lt;/h2&gt;
+&lt;h2 id=&#34;description:f809e3f55e3fcaeb9cf53f6bad8ec67c&#34;&gt;Description&lt;/h2&gt;
 
 &lt;p&gt;The protagonist is woken up by a virtual rooster in walled room composed of screens. We are then introduced to his daily routine.&lt;/p&gt;
 
@@ -35,7 +35,7 @@
 
 &lt;p&gt;Finally, their interactions culminated in his offer of giving her a very expensive gold ticket to a &lt;a href=&#34;http://en.wikipedia.org/wiki/The_X_Factor&#34;&gt;X-Factor&lt;/a&gt; like reality TV show, &lt;em&gt;Hot Shot&lt;/em&gt;. The woman initially hesitates but finally relents. They are now on the road of possible greatness. Or perhaps something different.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_2&#34;&gt;Review&lt;/h2&gt;
+&lt;h2 id=&#34;review:f809e3f55e3fcaeb9cf53f6bad8ec67c&#34;&gt;Review&lt;/h2&gt;
 
 &lt;p&gt;The world here is a dystopia that reminds me of &lt;a href=&#34;https://en.wikipedia.org/wiki/Fahrenheit_451&#34;&gt;Fahrenheit 451&lt;/a&gt; and &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Running_Man_(1987_film)&#34;&gt;The Running Man&lt;/a&gt;. It also reminds me of contemporary shows like American Idol.&lt;/p&gt;
 
@@ -52,12 +52,12 @@
     <item>
       <title>Black Mirror Season 1 Episode 1</title>
       <link>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-1/</link>
-      <pubDate>Sat, 31 Jan 2015 15:00:08 PHT</pubDate>
-      <author>Arthur Vincent Simon</author>
+      <pubDate>Sat, 31 Jan 2015 15:00:08 +0800</pubDate>
+      
       <guid>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-1/</guid>
       <description>
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Details&lt;/h2&gt;
+&lt;h2 id=&#34;details:dd909382ff31b3d167bc91250317a093&#34;&gt;Details&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Title: &lt;strong&gt;The National Anthem&lt;/strong&gt;&lt;/li&gt;
@@ -65,7 +65,7 @@
 &lt;li&gt;Season: 1&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Description&lt;/h2&gt;
+&lt;h2 id=&#34;description:dd909382ff31b3d167bc91250317a093&#34;&gt;Description&lt;/h2&gt;
 
 &lt;p&gt;The British Prime Minister wakes up with a call from one of his aides. He is shown a video feed informing him that the Princess was abducted by some unknown person.&lt;/p&gt;
 
@@ -73,7 +73,7 @@
 
 &lt;p&gt;With no clues as to the whereabouts of the kidnapper, will they be able to rescue the Princess before the Prime Minister gives in to the demand?&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_2&#34;&gt;Review&lt;/h2&gt;
+&lt;h2 id=&#34;review:dd909382ff31b3d167bc91250317a093&#34;&gt;Review&lt;/h2&gt;
 
 &lt;p&gt;Where do I start?&lt;/p&gt;
 
