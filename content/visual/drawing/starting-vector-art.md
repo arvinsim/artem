@@ -2,8 +2,8 @@
 date = "2015-02-08T15:44:55+08:00"
 title = "Starting Vector Art"
 description = "My first foray into Vector Art"
-articleType = ["blog"]
-discipline = ["visual", "drawing"]
+articleTypes = ["blog"]
+disciplines = ["visual", "drawing"]
 tags = ["vector"]
 slug = "starting-vector-art"
 +++
@@ -18,9 +18,9 @@ I decided that learning the process of asset creation would benefit me. Even sur
 
 ## Choosing the method
 
-### [Digital Painting](http://en.wikipedia.org/wiki/Digital_painting)
+### Digital Painting
 
-Let's start with the obvious which is digital painting. It is the most common and most versatile method of creating digital art. Why not go with this?
+Let's start with the obvious which is [digital painting](http://en.wikipedia.org/wiki/Digital_painting). It is the most common and most versatile method of creating digital art. Why not go with this?
 
 Unfortunately, I would have to abstain from it right off the bat.
 
@@ -34,9 +34,9 @@ Unfortunately, I will pass on this one.
 
 ![Examples](http://i.imgur.com/Z8xkYpC.jpg)
 
-### [Pixel Art](http://en.wikipedia.org/wiki/Pixel_art)
+### Pixel Art
 
-I grew up with 8-bit and 16-bit video games. This method holds some nostalgic value for me.
+I grew up with 8-bit and 16-bit video games. Most of those games at that time use [pixelized art](http://en.wikipedia.org/wiki/Pixel_art) rather than the smooth and clean methods that we have today. This method holds some nostalgic value for me.
 
 But creating it takes a lot of hard work and dedication. Resizing it to fit many resolutions is also going to be a nightmare. 
 
@@ -44,9 +44,9 @@ I always smile when I see pixel art. But I will just enjoy looking at rather tha
 
 ![Examples](https://i.imgur.com/eKkBRUb.png)
 
-### [Vector Art](http://en.wikipedia.org/wiki/Vector_graphics)
+### Vector Art
 
-In the end, this is the one that I chose.
+[Vector Art](http://en.wikipedia.org/wiki/Vector_graphics) consists of lines and gradients that are created via mathematical models rather than painting them as pixels. In the end, this is the one that I chose.
 
 - *I don't need to have a tablet*. 
 
@@ -64,13 +64,15 @@ In the end, this is the one that I chose.
 
 Based on my research, there are only really 2 contenders for this.
 
-### [Adobe Illustrator](http://www.adobe.com/products/illustrator.html)
+[**Adobe Illustrator**](http://www.adobe.com/products/illustrator.html)
+
 - Pro
     - Industry Standard
 - Con
     - Very Expensive
 
-### [Inkscape](https://inkscape.org/en/)
+[**Inkscape**](https://inkscape.org/en/)
+
 - Pro
     - Free
 - Con
