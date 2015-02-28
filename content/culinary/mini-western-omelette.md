@@ -19,7 +19,7 @@ That's it, I decided that I want to make it
 
 http://cavemanketo.com/mini-western-omelettes/
 
-## Diffferences
+## Differences
 
 - Hams steak is hard to find in my place but cooked spiced ham is plenty. So I substituted.
 

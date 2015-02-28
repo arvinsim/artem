@@ -3,13 +3,13 @@ title = "Ars longa, vita brevis"
 languageCode = "en-us"
 theme = "hugo-theme-artem"
 
-[taxonomies]
-    articleType = "articleTypes"
-    discipline = "disciplines"
-    tag = "tags"
-
 [author]
     name = "Arthur Vincent Simon"
 
 [params]
     description = "Art is long, life is short"
+
+[taxonomies]
+    articleType = "articleTypes"
+    discipline = "disciplines"
+    tag = "tags"
