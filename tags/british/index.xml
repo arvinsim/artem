@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>British on Ars longa, vita brevis</title>
-    <link>http://arvinsim.github.io/artem/tags/british/</link>
+    <link>http://localhost:1313/artem/tags/british/</link>
     <description>Recent content in British on Ars longa, vita brevis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Feb 2015 15:00:15 +0800</lastBuildDate>
-    <atom:link href="http://arvinsim.github.io/artem/tags/british/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/artem/tags/british/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Black Mirror Season 1 Episode 2</title>
-      <link>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-2/</link>
+      <link>http://localhost:1313/artem/performance/tv/black-mirror-season-1-episode-2/</link>
       <pubDate>Tue, 03 Feb 2015 15:00:15 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-2/</guid>
+      <guid>http://localhost:1313/artem/performance/tv/black-mirror-season-1-episode-2/</guid>
       <description>
 
 &lt;h2 id=&#34;details:f809e3f55e3fcaeb9cf53f6bad8ec67c&#34;&gt;Details&lt;/h2&gt;
@@ -51,10 +51,10 @@
     
     <item>
       <title>Black Mirror Season 1 Episode 1</title>
-      <link>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-1/</link>
+      <link>http://localhost:1313/artem/performance/tv/black-mirror-season-1-episode-1/</link>
       <pubDate>Sat, 31 Jan 2015 15:00:08 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-1/</guid>
+      <guid>http://localhost:1313/artem/performance/tv/black-mirror-season-1-episode-1/</guid>
       <description>
 
 &lt;h2 id=&#34;details:dd909382ff31b3d167bc91250317a093&#34;&gt;Details&lt;/h2&gt;

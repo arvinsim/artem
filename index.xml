@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ars longa, vita brevis</title>
-    <link>http://arvinsim.github.io/artem/</link>
+    <link>http://localhost:1313/artem/</link>
     <description>Recent content on Ars longa, vita brevis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Feb 2015 15:44:55 +0800</lastBuildDate>
-    <atom:link href="http://arvinsim.github.io/artem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/artem/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Starting Vector Art</title>
-      <link>http://arvinsim.github.io/artem/visual/drawing/starting-vector-art/</link>
+      <link>http://localhost:1313/artem/visual/drawing/starting-vector-art/</link>
       <pubDate>Sun, 08 Feb 2015 15:44:55 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/visual/drawing/starting-vector-art/</guid>
+      <guid>http://localhost:1313/artem/visual/drawing/starting-vector-art/</guid>
       <description>
 
 &lt;h2 id=&#34;the-other-side-of-the-fence:29de3aa4c61cac74984fb82cb265c6f3&#34;&gt;The other side of the fence&lt;/h2&gt;
@@ -125,10 +125,10 @@
     
     <item>
       <title>Black Mirror Season 1 Episode 2</title>
-      <link>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-2/</link>
+      <link>http://localhost:1313/artem/performance/tv/black-mirror-season-1-episode-2/</link>
       <pubDate>Tue, 03 Feb 2015 15:00:15 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-2/</guid>
+      <guid>http://localhost:1313/artem/performance/tv/black-mirror-season-1-episode-2/</guid>
       <description>
 
 &lt;h2 id=&#34;details:f809e3f55e3fcaeb9cf53f6bad8ec67c&#34;&gt;Details&lt;/h2&gt;
@@ -165,10 +165,10 @@
     
     <item>
       <title>The War of Art</title>
-      <link>http://arvinsim.github.io/artem/literary/the-war-of-art-book-review/</link>
+      <link>http://localhost:1313/artem/literary/the-war-of-art-book-review/</link>
       <pubDate>Mon, 02 Feb 2015 22:42:59 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/literary/the-war-of-art-book-review/</guid>
+      <guid>http://localhost:1313/artem/literary/the-war-of-art-book-review/</guid>
       <description>
 
 &lt;h2 id=&#34;details:f8cd6a78e60b83800c58e39b789b8533&#34;&gt;Details&lt;/h2&gt;
@@ -225,13 +225,13 @@
     
     <item>
       <title>Words from the Three Tools of Death</title>
-      <link>http://arvinsim.github.io/artem/literary/logophilia-january-31-2015/</link>
+      <link>http://localhost:1313/artem/literary/logophilia-january-31-2015/</link>
       <pubDate>Sat, 31 Jan 2015 23:01:00 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/literary/logophilia-january-31-2015/</guid>
+      <guid>http://localhost:1313/artem/literary/logophilia-january-31-2015/</guid>
       <description>
 
-&lt;p&gt;After being busy for about a year, I finally decided to return reading on one of my favorite British author/philosopher, &lt;a href=&#34;http://en.wikipedia.org/wiki/G._K._Chesterton&#34;&gt;G.K. Chesterton&lt;/a&gt;. His writings are dense and take time to digest. I decided to start with his most accessible writings,his &lt;a href=&#34;http://en.wikipedia.org/wiki/Father_Brown&#34;&gt;Father Brown&lt;/a&gt; Mysteries. I just randomly opened a page and I happened on the &amp;ldquo;The Three Tools of Death&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;After being busy for about a year, I finally decided to return reading on one of my favorite British author/philosopher, &lt;a href=&#34;http://en.wikipedia.org/wiki/G._K._Chesterton&#34;&gt;G.K. Chesterton&lt;/a&gt;. His writings are dense and take time to digest. I decided to start with his most accessible writings, his &lt;a href=&#34;http://en.wikipedia.org/wiki/Father_Brown&#34;&gt;Father Brown&lt;/a&gt; Mysteries. I just randomly opened a page and I happened on the &amp;ldquo;The Three Tools of Death&amp;rdquo;.&lt;/p&gt;
 
 &lt;h2 id=&#34;cataract:0a0b28d65bd7a713eaa5008bf99a894c&#34;&gt;Cataract&lt;/h2&gt;
 
@@ -377,10 +377,10 @@
     
     <item>
       <title>Black Mirror Season 1 Episode 1</title>
-      <link>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-1/</link>
+      <link>http://localhost:1313/artem/performance/tv/black-mirror-season-1-episode-1/</link>
       <pubDate>Sat, 31 Jan 2015 15:00:08 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-1/</guid>
+      <guid>http://localhost:1313/artem/performance/tv/black-mirror-season-1-episode-1/</guid>
       <description>
 
 &lt;h2 id=&#34;details:dd909382ff31b3d167bc91250317a093&#34;&gt;Details&lt;/h2&gt;
