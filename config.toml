@@ -9,7 +9,11 @@ theme = "hugo-theme-artem"
 [params]
     description = "Art is long, life is short"
 
+[params.social]
+    mail = "developarvin+artem@gmail.com"
+    twitter = "http://twitter.com/developarvin"
+
 [taxonomies]
     articleType = "articleTypes"
     discipline = "disciplines"
-    tag = "tags"
+    tag = "tags" 
