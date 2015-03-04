@@ -1,9 +1,9 @@
 +++
 date = "2015-02-12T22:35:32+08:00"
-title = "Love everlasting by ddrkirby"
+title = "Love Everlasting by ddrkirby"
 articleTypes = ["blog"]
 disciplines = ["performance", "interactive"]
-tags = ["music", "vector", "ddrkirby"]
+tags = ["music", "ddrkirby", "8-bit"]
 slug = "love-everlasting-by-ddrkirby"
 +++
 

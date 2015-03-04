@@ -1,5 +1,5 @@
 baseurl = "http://arvinsim.github.io/artem"
-title = "Artem's Ridiculous Text Expression Machine"
+title = "Arthur's Ridiculous Text Expression Machine"
 languageCode = "en-us"
 theme = "hugo-theme-artem"
 
@@ -7,7 +7,7 @@ theme = "hugo-theme-artem"
     name = "Arthur Vincent Simon"
 
 [params]
-    description = "Because I love recursive acronyms"
+    description = "A hobby blog"
 
 [params.social]
     mail = "developarvin+artem@gmail.com"
