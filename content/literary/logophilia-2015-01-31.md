@@ -6,7 +6,11 @@ articleType = ["series"]
 tags = ["chesterton", "three-tools-of-death", "book", "logophilia"]
 +++
 
-After being busy for about a year, I finally decided to return reading on one of my favorite British author/philosopher, [G.K. Chesterton](http://en.wikipedia.org/wiki/G._K._Chesterton). His writings are dense and take time to digest. I decided to start with his most accessible writings, his [Father Brown](http://en.wikipedia.org/wiki/Father_Brown) Mysteries. I just randomly opened a page and I happened on the "The Three Tools of Death".
+It has been a long time since I read some paperback from my bookshelf. I decided to take one book and try to finish it despite my preference for ebooks. I chose the [Father Brown Mysteries](http://www.amazon.com/Father-Brown-Omnibus-Preface-Auberon/dp/0396081592/ref=sr_1_1?s=books&ie=UTF8&qid=1425560311&sr=1-1&keywords=father+brown+omnibus), the most accessible writing of [G.K. Chesterton](http://en.wikipedia.org/wiki/G._K._Chesterton), one of my favorite British author and philospher. 
+
+![Gilbert Chesterton](https://upload.wikimedia.org/wikipedia/commons/7/75/Gilbert_Chesterton.jpg "By Ernest Herbert Mills [Public domain], via Wikimedia Commons")
+
+I have read this book before but I don't remember where I stopped reading. I decided I would just pick one I haven't read before. "The Three Tools of Death" title was compelling so I went with that.
 
 ## Cataract 
 
@@ -91,12 +95,6 @@ After being busy for about a year, I finally decided to return reading on one of
 ## Incongruity
 
 > the quality of being incongruous; out of keeping or place; inappropriate; unbecoming: 
-
-### Read from
-
-+ Book: [The Innocence of Father Brown](http://www.gutenberg.org/ebooks/204), part of the *Father Brown Mysteries*
-+ Chapter: "The Three Tools of Death"
-+ Author: G.K. Chesteron 
 
 ### Definition Reference
 
