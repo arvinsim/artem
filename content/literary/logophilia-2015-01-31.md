@@ -1,6 +1,6 @@
 +++
 date = "2015-01-31T23:01:00+08:00"
-title = "Logophilia 2015-01-31"
+title = "Logophilia January 31, 2015"
 description = 'Lots of new words from "The Three Tools of Death", a story from G.K. Chesterton'
 articleType = ["series"]
 tags = ["chesterton", "three-tools-of-death", "book", "logophilia"]
