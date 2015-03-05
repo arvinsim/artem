@@ -1,6 +1,6 @@
 +++
 description = ""
-article-type = [""]
+articleTypes = [""]
 discipline = ["visual", "drawing"]
 draft = true
 +++
