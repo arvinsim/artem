@@ -5,7 +5,7 @@ theme = "hugo-theme-artem"
 
 [params]
     author = "Arthur Vincent Simon"
-    description = "A hobby blog"
+    description = "Observations on things of interest"
 
 [params.social]
     mail = "developarvin+artem@gmail.com"
