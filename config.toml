@@ -3,10 +3,8 @@ title = "Arthur's Ridiculous Text Expression Machine"
 languageCode = "en-us"
 theme = "hugo-theme-artem"
 
-[author]
-    name = "Arthur Vincent Simon"
-
 [params]
+    author = "Arthur Vincent Simon"
     description = "A hobby blog"
 
 [params.social]
@@ -15,5 +13,4 @@ theme = "hugo-theme-artem"
 
 [taxonomies]
     articleType = "articleTypes"
-    discipline = "disciplines"
     tag = "tags" 
