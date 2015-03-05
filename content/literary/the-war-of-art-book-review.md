@@ -2,8 +2,6 @@
 date = "2015-02-02T22:42:59+08:00"
 title = "The War of Art"
 description = "A book review on the The War of Art book"
-slug = "the-war-of-art-book-review"
-discipline = ["literary"]
 articleType = ["book-review"]
 tags = ["non-fiction", "productivity", "motivational"]
 +++

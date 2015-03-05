@@ -3,9 +3,7 @@ date = "2015-02-08T15:44:55+08:00"
 title = "Starting Vector Art"
 description = "My first foray into Vector Art"
 articleTypes = ["blog"]
-disciplines = ["visual", "drawing"]
 tags = ["vector"]
-slug = "starting-vector-art"
 +++
 
 ## The other side of the fence

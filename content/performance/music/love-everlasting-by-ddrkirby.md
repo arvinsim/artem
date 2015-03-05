@@ -1,10 +1,9 @@
 +++
 date = "2015-02-12T22:35:32+08:00"
 title = "Love Everlasting by DDRkirby"
+description = "An 8-bit tune reminds me of an old era in video games."
 articleTypes = ["blog"]
-disciplines = ["performance", "interactive"]
 tags = ["music", "ddrkirby", "8-bit"]
-slug = "love-everlasting-by-DDRkirby"
 +++
 
 # When the Outro came in
