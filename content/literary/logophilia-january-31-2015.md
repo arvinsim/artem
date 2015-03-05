@@ -1,11 +1,11 @@
 +++
 date = "2015-01-31T23:01:00+08:00"
-title = "Words from the Three Tools of Death"
-description = "Lots of new words from a story of my favorite chap, G.K. Chesterton"
+title = "Logophilia 2015-01-31"
+description = 'Lots of new words from "The Three Tools of Death", a story from G.K. Chesterton'
 slug = "logophilia-january-31-2015"
 discipline = ["literary"]
-articleType = ["logophilia"]
-tags = ["GK-Chesterton", "three-tools-of-death", "book"]
+articleType = ["series"]
+tags = ["chesterton", "three-tools-of-death", "book", "logophilia"]
 +++
 
 After being busy for about a year, I finally decided to return reading on one of my favorite British author/philosopher, [G.K. Chesterton](http://en.wikipedia.org/wiki/G._K._Chesterton). His writings are dense and take time to digest. I decided to start with his most accessible writings, his [Father Brown](http://en.wikipedia.org/wiki/Father_Brown) Mysteries. I just randomly opened a page and I happened on the "The Three Tools of Death".
