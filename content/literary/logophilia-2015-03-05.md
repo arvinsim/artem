@@ -2,7 +2,7 @@
 title = "Logophilia March 3, 2015"
 date = "2015-03-05T20:00:33+08:00"
 description = "Words from a great book on improving nonfiction writing."
-articleType = ["series"]
+articleTypes = ["series"]
 tags = ["writing", "book", "nonfiction"]
 +++
 
