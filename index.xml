@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arthur&#39;s Ridiculous Text Expression Machine</title>
-    <link>http://arvinsim.github.io/artem/</link>
+    <link>http://localhost:1313/artem/</link>
     <description>Recent content on Arthur&#39;s Ridiculous Text Expression Machine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Mar 2015 20:00:33 +0800</lastBuildDate>
-    <atom:link href="http://arvinsim.github.io/artem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/artem/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Logophilia March 3, 2015</title>
-      <link>http://arvinsim.github.io/artem/literary/logophilia-2015-03-05/</link>
+      <link>http://localhost:1313/artem/literary/logophilia-2015-03-05/</link>
       <pubDate>Thu, 05 Mar 2015 20:00:33 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/literary/logophilia-2015-03-05/</guid>
+      <guid>http://localhost:1313/artem/literary/logophilia-2015-03-05/</guid>
       <description>
 
 &lt;p&gt;I am reading the book &lt;a href=&#34;http://www.amazon.com/Writing-Well-30th-Anniversary-Edition/dp/0060891548&#34;&gt;On Writing Well&lt;/a&gt;, a book that gives advice on how to improve my nonfiction writing. I came across this words while reading the beginning parts.&lt;/p&gt;
@@ -64,11 +64,50 @@
     </item>
     
     <item>
+      <title>Mini Western Omelette</title>
+      <link>http://localhost:1313/artem/culinary/mini-western-omelette/</link>
+      <pubDate>Mon, 16 Feb 2015 22:27:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/artem/culinary/mini-western-omelette/</guid>
+      <description>
+
+&lt;p&gt;For this week, I choose to cook a variation of an omelette that has a distinctive western taste.&lt;/p&gt;
+
+&lt;p&gt;Last week, I made Quiche using spinach and broccoli. The meal tasted great and satiated my hunger easily when I ate it for lunch and dinner.&lt;/p&gt;
+
+&lt;p&gt;Valentines Day is upcoming and there are many other things that I need to attend to this week. Because of that, I want to cook a meal that is easy to prepare and has less green vegetables as ingredients. I was able to get a recipe from &lt;a href=&#34;http://cavemanketo.com/mini-western-omelettes/&#34;&gt;Caveman Keto&lt;/a&gt; that seems fit the bill.&lt;/p&gt;
+
+&lt;h2 id=&#34;differences:fb513274b0fcb8302e3b4b73088399e9&#34;&gt;Differences&lt;/h2&gt;
+
+&lt;p&gt;Ham steak is expensive and hard to find in our area. Cooked or spiced ham on the other hand is plentiful and cheap. Since this is not the main ingredient, I choose to buy the less expensive option.&lt;/p&gt;
+
+&lt;p&gt;Cheddar cheese is no longer a rare sight in supermarkets anymore. But they cost twice as much as the ordinary ones. I figure out that I can live with the latter.&lt;/p&gt;
+
+&lt;p&gt;The placement of sliced cheese in the recipe just doesn&amp;rsquo;t sit well with me. I prefer the cheese grated or sliced into cubes to be mixed into the egg batter.&lt;/p&gt;
+
+&lt;h2 id=&#34;lessons:fb513274b0fcb8302e3b4b73088399e9&#34;&gt;Lessons&lt;/h2&gt;
+
+&lt;p&gt;I should have put baking cups in the muffin pan. The omelettes cooked fine without them. But it was a pain when I tried to clean them after cooking. I submerged the muffin pan in water to soften the sticky leftovers. Even so, it was hard to scrape them off.&lt;/p&gt;
+
+&lt;p&gt;I tried putting grated cheese on some omelettes while I put small cheese cubes for the others. After trying both, the omelettes with the cubes retained its taste better. The grated cheese melded with the egg batter and it did not taste as good.&lt;/p&gt;
+
+&lt;h2 id=&#34;screenshots:fb513274b0fcb8302e3b4b73088399e9&#34;&gt;Screenshots&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/GsN2d3D.jpg&#34; alt=&#34;Mini western omelettes in a container&#34; /&gt;
+
+&lt;img src=&#34;http://i.imgur.com/OqzAkki.jpg&#34; alt=&#34;Another picture of mini western omelettes&#34; /&gt;
+
+&lt;img src=&#34;http://i.imgur.com/fgMj1xu.jpg&#34; alt=&#34;A single mini western omelette&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Love Everlasting by DDRkirby</title>
-      <link>http://arvinsim.github.io/artem/performance/music/love-everlasting-by-ddrkirby/</link>
+      <link>http://localhost:1313/artem/performance/music/love-everlasting-by-ddrkirby/</link>
       <pubDate>Thu, 12 Feb 2015 22:35:32 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/performance/music/love-everlasting-by-ddrkirby/</guid>
+      <guid>http://localhost:1313/artem/performance/music/love-everlasting-by-ddrkirby/</guid>
       <description>
 
 &lt;h1 id=&#34;when-the-outro-came-in:f452199f65a771ade9252ead898f6acb&#34;&gt;When the Outro came in&lt;/h1&gt;
@@ -92,10 +131,10 @@ Games like &lt;a href=&#34;https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_%281
     
     <item>
       <title>Starting Vector Art</title>
-      <link>http://arvinsim.github.io/artem/visual/drawing/starting-vector-art/</link>
+      <link>http://localhost:1313/artem/visual/drawing/starting-vector-art/</link>
       <pubDate>Sun, 08 Feb 2015 15:44:55 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/visual/drawing/starting-vector-art/</guid>
+      <guid>http://localhost:1313/artem/visual/drawing/starting-vector-art/</guid>
       <description>
 
 &lt;h2 id=&#34;the-other-side-of-the-fence:29de3aa4c61cac74984fb82cb265c6f3&#34;&gt;The other side of the fence&lt;/h2&gt;
@@ -206,10 +245,10 @@ Games like &lt;a href=&#34;https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_%281
     
     <item>
       <title>Black Mirror Season 1 Episode 2</title>
-      <link>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-2/</link>
+      <link>http://localhost:1313/artem/performance/tv/black-mirror-season-1-episode-2/</link>
       <pubDate>Tue, 03 Feb 2015 15:00:15 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-2/</guid>
+      <guid>http://localhost:1313/artem/performance/tv/black-mirror-season-1-episode-2/</guid>
       <description>
 
 &lt;h2 id=&#34;details:f809e3f55e3fcaeb9cf53f6bad8ec67c&#34;&gt;Details&lt;/h2&gt;
@@ -246,10 +285,10 @@ Games like &lt;a href=&#34;https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_%281
     
     <item>
       <title>The War of Art</title>
-      <link>http://arvinsim.github.io/artem/literary/the-war-of-art-book-review/</link>
+      <link>http://localhost:1313/artem/literary/the-war-of-art-book-review/</link>
       <pubDate>Mon, 02 Feb 2015 22:42:59 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/literary/the-war-of-art-book-review/</guid>
+      <guid>http://localhost:1313/artem/literary/the-war-of-art-book-review/</guid>
       <description>
 
 &lt;h2 id=&#34;details:f8cd6a78e60b83800c58e39b789b8533&#34;&gt;Details&lt;/h2&gt;
@@ -306,10 +345,10 @@ Games like &lt;a href=&#34;https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_%281
     
     <item>
       <title>Logophilia January 31, 2015</title>
-      <link>http://arvinsim.github.io/artem/literary/logophilia-2015-01-31/</link>
+      <link>http://localhost:1313/artem/literary/logophilia-2015-01-31/</link>
       <pubDate>Sat, 31 Jan 2015 23:01:00 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/literary/logophilia-2015-01-31/</guid>
+      <guid>http://localhost:1313/artem/literary/logophilia-2015-01-31/</guid>
       <description>
 
 &lt;p&gt;It has been a long time since I read some paperback from my bookshelf. I decided to take one book and try to finish it despite my preference for ebooks. I chose the &lt;a href=&#34;http://www.amazon.com/Father-Brown-Omnibus-Preface-Auberon/dp/0396081592/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1425560311&amp;amp;sr=1-1&amp;amp;keywords=father+brown+omnibus&#34;&gt;Father Brown Mysteries&lt;/a&gt;, the most accessible writing of &lt;a href=&#34;http://en.wikipedia.org/wiki/G._K._Chesterton&#34;&gt;G.K. Chesterton&lt;/a&gt;, one of my favorite British author and philospher.&lt;/p&gt;
@@ -455,10 +494,10 @@ Games like &lt;a href=&#34;https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_%281
     
     <item>
       <title>Black Mirror Season 1 Episode 1</title>
-      <link>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-1/</link>
+      <link>http://localhost:1313/artem/performance/tv/black-mirror-season-1-episode-1/</link>
       <pubDate>Sat, 31 Jan 2015 15:00:08 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-1/</guid>
+      <guid>http://localhost:1313/artem/performance/tv/black-mirror-season-1-episode-1/</guid>
       <description>
 
 &lt;h2 id=&#34;details:dd909382ff31b3d167bc91250317a093&#34;&gt;Details&lt;/h2&gt;
