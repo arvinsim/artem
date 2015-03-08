@@ -1,6 +1,6 @@
 +++
 date = "2015-02-02T22:42:59+08:00"
-title = "The War of Art"
+title = "Book Review: The War of Art"
 description = "A book review on the The War of Art book"
 articleType = ["book-review"]
 tags = ["non-fiction", "productivity", "motivational"]
@@ -17,7 +17,7 @@ tags = ["non-fiction", "productivity", "motivational"]
 
 ## Why did you read the book? What made you interested in it?
 
-I discovered the book while I was reading a Reddit post about Enterprenuerial books. It was recommending good books to read for the budding entrepreneur. While I was browsing the list, this book caught my eye. I surmised that it is because of the title. It is remniscent of Sun Tzu's [The Art of War](http://en.wikipedia.org/wiki/The_Art_of_War).
+I discovered this book while I was reading a Reddit post about Enterprenuerial books. It was recommending good books to read for the budding entrepreneur. While I was browsing the list, this book caught my eye. I surmised that it is because of the title. It is remniscent of Sun Tzu's [The Art of War](http://en.wikipedia.org/wiki/The_Art_of_War).
 
 After doing some research, I gave it a try since it is a short book.
 
@@ -51,8 +51,12 @@ Lastly, I find the idea of the *Professional* reassuring. I am the type of perso
 
 The first two parts of the book has some interesting ideas and information that you can use to apply to your life. They are useful when trying to get out of a rut or mental/creative block.
 
-It is the third part where I think it gets less interesting. By trying to use some concepts such as *muses* or *angels*, it gives off a "new age" feel.
+It is the third part where I think it gets less interesting. By trying to use some concepts such as muses or angels, it gives off a "new age" feel.
 
 Not to say that it is bad. But I went to read this book for some pragmatic concepts that can be applied directly.
 
 Whether you like it or not, this book is short so it is worth a try.
+
+## Rating
+
+7/10
