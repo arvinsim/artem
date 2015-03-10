@@ -4,6 +4,7 @@ articleTypes = [""]
 date = "2015-03-09T20:02:56+08:00"
 description = ""
 discipline = ["literary"]
+draft = true
 +++
 
 ## gaudy

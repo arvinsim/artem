@@ -3,7 +3,7 @@ title = "Book Review: Rework"
 date = "2015-03-02T21:40:11+08:00"
 articleTypes = [""]
 description = ""
-
+draft = true
 +++
 
 ##  What made you interested in the book?
