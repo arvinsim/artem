@@ -6,8 +6,32 @@
     <description>Recent content in Vector on Arthur&#39;s Ridiculous Text Expression Machine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Feb 2015 15:44:55 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2015 21:53:57 +0800</lastBuildDate>
     <atom:link href="http://arvinsim.github.io/artem/tags/vector/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Vector Art 1: Kirby</title>
+      <link>http://arvinsim.github.io/artem/visual/drawing/vector-1-kirby/</link>
+      <pubDate>Wed, 11 Mar 2015 21:53:57 +0800</pubDate>
+      
+      <guid>http://arvinsim.github.io/artem/visual/drawing/vector-1-kirby/</guid>
+      <description>
+
+&lt;p&gt;This is an attempt to draw &lt;a href=&#34;http://en.wikipedia.org/wiki/Kirby_%28character%29&#34;&gt;Kirby&lt;/a&gt;, a famous fictional character from Nintendo. I chose this character because it is easy to draw. But I underestimated how much time I needed to actually emulate the image. The gradients took most of my time since I am still not familiar with the software.&lt;/p&gt;
+
+&lt;p&gt;I used &lt;a href=&#34;https://inkscape.org/en/&#34;&gt;Inkscape&lt;/a&gt; to draw and &lt;a href=&#34;http://www.gpick.org/screenshots.html&#34;&gt;Gpick&lt;/a&gt; to copy over the colors from the source image&lt;/p&gt;
+
+&lt;h2 id=&#34;source-image:1ce7f40f59b760fcdbde573ac4a2a41a&#34;&gt;Source image&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/kPLr11C.jpg&#34; alt=&#34;Source&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;my-attempt:1ce7f40f59b760fcdbde573ac4a2a41a&#34;&gt;My attempt&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/L2ibZ3P.png&#34; alt=&#34;My attempt&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Starting Vector Art</title>
