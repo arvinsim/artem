@@ -4,6 +4,10 @@ title = "Vector Art 1: Kirby"
 description = "My attempt at drawing Kirby"
 articleTypes = ["blog"]
 tags = ["vector", "kirby", "inkscape"]
+images = [
+    "http://i.imgur.com/L2ibZ3P.png",
+    "http://i.imgur.com/kPLr11C.jpg"
+]
 +++
 
 This is an attempt to draw [Kirby](http://en.wikipedia.org/wiki/Kirby_%28character%29), a famous fictional character from Nintendo. I chose this character because it is easy to draw. But I underestimated how much time I needed to actually emulate the image. The gradients took most of my time since I am still not familiar with the software. 
