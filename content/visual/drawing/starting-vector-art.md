@@ -4,6 +4,9 @@ title = "Starting Vector Art"
 description = "My first foray into Vector Art"
 articleTypes = ["blog"]
 tags = ["vector"]
+images = [
+    "http://i.imgur.com/ln01b2Ns.png"
+]
 +++
 
 ## The other side of the fence
@@ -30,7 +33,7 @@ I believe that to create digital paintings, you need a drawing tablet. Unfortuna
 
 Unfortunately, I will pass on this one.
 
-![Examples](http://i.imgur.com/Z8xkYpC.jpg)
+<a href="http://i.imgur.com/Z8xkYpCl.jpg"><img src="http://i.imgur.com/Z8xkYpCm.jpg" alt="RDog showing a raspberry"></a>
 
 ### Pixel Art
 
@@ -40,7 +43,7 @@ But creating it takes a lot of hard work and dedication. Resizing it to fit many
 
 I always smile when I see pixel art. But I will just enjoy looking at rather than creating it when it comes to the web.
 
-![Examples](https://i.imgur.com/eKkBRUb.png)
+<a href="http://i.imgur.com/Zip2xaxh.jpg"><img src="http://i.imgur.com/Zip2xaxl.jpg" alt="Pixel Art Apocalypse"></a>
 
 ### Vector Art
 
@@ -56,7 +59,7 @@ I always smile when I see pixel art. But I will just enjoy looking at rather tha
 
 - *Vector art lends itself well to flat design*. 
 
-![Examples](http://i.imgur.com/Jtwcp1g.png)
+<a href="http://i.imgur.com/qS3sWz0h.jpg"><img src="http://i.imgur.com/qS3sWz0m.jpg" alt="Lady Monk"/></a>
 
 ## Choosing what software to use
 
@@ -86,4 +89,4 @@ I decided to just spice up the background of my [github organization page](http:
 
 I used triangles and squares to create a simple mosaic background.
 
-![Vector Art 1](http://i.imgur.com/ln01b2N.png)
+<a href="http://i.imgur.com/ln01b2Nh.png"><img src="http://i.imgur.com/ln01b2Nm.png" alt="Vector Art 1"></a>

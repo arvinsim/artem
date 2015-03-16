@@ -4,6 +4,11 @@ title = "Mini Western Omelette"
 description = "Omelettes with a western taste"
 articleTypes = ["recipe"]
 tags = ["keto", "eggs"]
+images = [
+    "http://i.imgur.com/GsN2d3Dt.jpg",
+    "http://i.imgur.com/OqzAkkit.jpg",
+    "http://i.imgur.com/fgMj1xut.jpg"
+]
 +++
 
 For this week, I choose to cook a variation of an omelette that has a distinctive western taste.
@@ -27,7 +32,7 @@ I should have put baking cups in the muffin pan. The omelettes cooked fine witho
 I tried putting grated cheese on some omelettes while I put small cheese cubes for the others. After trying both, the omelettes with the cubes retained its taste better. The grated cheese melded with the egg batter and it did not taste as good.
 
 ## Screenshots
-![Mini western omelettes in a container](http://i.imgur.com/GsN2d3D.jpg)
-![Another picture of mini western omelettes](http://i.imgur.com/OqzAkki.jpg)
-![A single mini western omelette](http://i.imgur.com/fgMj1xu.jpg)
 
+<a href="http://i.imgur.com/GsN2d3Dh.jpg"><img src="http://i.imgur.com/GsN2d3Dm.jpg" alt="Mini western omelettes in a container"/></a>
+<a href="http://i.imgur.com/OqzAkkih.jpg"><img src="http://i.imgur.com/OqzAkkim.jpg" alt="Another picture of mini western omelettes"></a>
+<a href="http://i.imgur.com/fgMj1xuh.jpg"><img src="http://i.imgur.com/fgMj1xum.jpg" alt="A single mini western omelette"/></a> 

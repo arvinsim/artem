@@ -4,6 +4,9 @@ title = "Love Everlasting by DDRkirby"
 description = "An 8-bit tune reminds me of an old era in video games."
 articleTypes = ["blog"]
 tags = ["music", "ddrkirby", "8-bit"]
+images = [
+    "http://i.imgur.com/waYFdX1s.jpg"
+]
 +++
 
 # When the Outro came in
