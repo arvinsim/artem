@@ -89,4 +89,4 @@ I decided to just spice up the background of my [github organization page](http:
 
 I used triangles and squares to create a simple mosaic background.
 
-<a href="http://i.imgur.com/ln01b2Nh.png"><img src="http://i.imgur.com/ln01b2Nm.png" alt="Vector Art 1"></a>
+<a href="http://i.imgur.com/ln01b2Nh.png"><img itemprop="image" src="http://i.imgur.com/ln01b2Nm.png" alt="Vector Art 1"></a>

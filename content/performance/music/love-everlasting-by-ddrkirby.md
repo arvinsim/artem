@@ -13,7 +13,7 @@ images = [
 
 I was listening to this [Extra Credits](https://www.youtube.com/watch?v=dHMNeNapL1E) episode when I heard this outro at the end of the video.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/EnbhV3zuTj8" frameborder="0" allowfullscreen></iframe>
+<iframe itemprop="video" width="420" height="315" src="https://www.youtube.com/embed/EnbhV3zuTj8" frameborder="0" allowfullscreen></iframe>
 
 The title is **Love Everlasting** by *DDRkirby*, an independent composer who produces some awesome 8-bit styled music that can be listened online for free.
 
