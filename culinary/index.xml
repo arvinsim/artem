@@ -39,9 +39,9 @@
 
 &lt;h2 id=&#34;screenshots:fb513274b0fcb8302e3b4b73088399e9&#34;&gt;Screenshots&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://i.imgur.com/GsN2d3Dh.jpg&#34;&gt;&lt;img src=&#34;http://i.imgur.com/GsN2d3Dm.jpg&#34; alt=&#34;Mini western omelettes in a container&#34;/&gt;&lt;/a&gt;
-&lt;a href=&#34;http://i.imgur.com/OqzAkkih.jpg&#34;&gt;&lt;img src=&#34;http://i.imgur.com/OqzAkkim.jpg&#34; alt=&#34;Another picture of mini western omelettes&#34;&gt;&lt;/a&gt;
-&lt;a href=&#34;http://i.imgur.com/fgMj1xuh.jpg&#34;&gt;&lt;img src=&#34;http://i.imgur.com/fgMj1xum.jpg&#34; alt=&#34;A single mini western omelette&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://i.imgur.com/GsN2d3Dh.jpg&#34;&gt;&lt;img itemprop=&#34;image&#34; src=&#34;http://i.imgur.com/GsN2d3Dm.jpg&#34; alt=&#34;Mini western omelettes in a container&#34;/&gt;&lt;/a&gt;
+&lt;a href=&#34;http://i.imgur.com/OqzAkkih.jpg&#34;&gt;&lt;img itemprop=&#34;image&#34; src=&#34;http://i.imgur.com/OqzAkkim.jpg&#34; alt=&#34;Another picture of mini western omelettes&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://i.imgur.com/fgMj1xuh.jpg&#34;&gt;&lt;img itemprop=&#34;image&#34; src=&#34;http://i.imgur.com/fgMj1xum.jpg&#34; alt=&#34;A single mini western omelette&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

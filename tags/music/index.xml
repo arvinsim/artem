@@ -21,7 +21,7 @@
 
 &lt;p&gt;I was listening to this &lt;a href=&#34;https://www.youtube.com/watch?v=dHMNeNapL1E&#34;&gt;Extra Credits&lt;/a&gt; episode when I heard this outro at the end of the video.&lt;/p&gt;
 
-&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/EnbhV3zuTj8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe itemprop=&#34;video&#34; width=&#34;420&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/EnbhV3zuTj8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;The title is &lt;strong&gt;Love Everlasting&lt;/strong&gt; by &lt;em&gt;DDRkirby&lt;/em&gt;, an independent composer who produces some awesome 8-bit styled music that can be listened online for free.&lt;/p&gt;
 

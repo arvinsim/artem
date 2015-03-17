@@ -23,7 +23,7 @@
 
 &lt;p&gt;It was hard choosing which one to buy. But I decided to buy the book on food for many reasons. It was cheap. It doesn&amp;rsquo;t get as outdated as fast as technology books. I am also confident that there are free resources in the internet that is as comprehensive as the &amp;ldquo;Red Dragon&amp;rdquo; book.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://i.imgur.com/oxa6dUo.jpg&#34;&gt;&lt;img src=&#34;http://i.imgur.com/oxa6dUom.jpg&#34; alt=&#34;In Defense of Food - An Eater&#39;s Manifesto&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://i.imgur.com/oxa6dUo.jpg&#34;&gt;&lt;img itemprop=&#34;image&#34; src=&#34;http://i.imgur.com/oxa6dUom.jpg&#34; alt=&#34;In Defense of Food - An Eater&#39;s Manifesto&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -41,11 +41,11 @@
 
 &lt;h2 id=&#34;source-image:1ce7f40f59b760fcdbde573ac4a2a41a&#34;&gt;Source image&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://i.imgur.com/kPLr11Ch.jpg&#34;&gt;&lt;img src=&#34;http://i.imgur.com/kPLr11Cm.jpg&#34; alt=&#34;Source Image&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://i.imgur.com/kPLr11Ch.jpg&#34;&gt;&lt;img itemprop=&#34;image&#34; src=&#34;http://i.imgur.com/kPLr11Cm.jpg&#34; alt=&#34;Source Image&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;my-attempt:1ce7f40f59b760fcdbde573ac4a2a41a&#34;&gt;My attempt&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://i.imgur.com/L2ibZ3Ph.png&#34;&gt;&lt;img src=&#34;http://i.imgur.com/L2ibZ3Pl.png&#34; alt=&#34;My attempts at emulating the source image&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://i.imgur.com/L2ibZ3Ph.png&#34;&gt;&lt;img itemprop=&#34;image&#34; src=&#34;http://i.imgur.com/L2ibZ3Pl.png&#34; alt=&#34;My attempts at emulating the source image&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -61,7 +61,7 @@
 
 &lt;p&gt;I was listening to this &lt;a href=&#34;https://www.youtube.com/watch?v=dHMNeNapL1E&#34;&gt;Extra Credits&lt;/a&gt; episode when I heard this outro at the end of the video.&lt;/p&gt;
 
-&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/EnbhV3zuTj8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe itemprop=&#34;video&#34; width=&#34;420&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/EnbhV3zuTj8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;The title is &lt;strong&gt;Love Everlasting&lt;/strong&gt; by &lt;em&gt;DDRkirby&lt;/em&gt;, an independent composer who produces some awesome 8-bit styled music that can be listened online for free.&lt;/p&gt;
 
@@ -182,7 +182,7 @@ Games like &lt;a href=&#34;https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_%281
 
 &lt;p&gt;I used triangles and squares to create a simple mosaic background.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://i.imgur.com/ln01b2Nh.png&#34;&gt;&lt;img src=&#34;http://i.imgur.com/ln01b2Nm.png&#34; alt=&#34;Vector Art 1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://i.imgur.com/ln01b2Nh.png&#34;&gt;&lt;img itemprop=&#34;image&#34; src=&#34;http://i.imgur.com/ln01b2Nm.png&#34; alt=&#34;Vector Art 1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -23,11 +23,11 @@
 
 &lt;h2 id=&#34;source-image:1ce7f40f59b760fcdbde573ac4a2a41a&#34;&gt;Source image&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://i.imgur.com/kPLr11Ch.jpg&#34;&gt;&lt;img src=&#34;http://i.imgur.com/kPLr11Cm.jpg&#34; alt=&#34;Source Image&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://i.imgur.com/kPLr11Ch.jpg&#34;&gt;&lt;img itemprop=&#34;image&#34; src=&#34;http://i.imgur.com/kPLr11Cm.jpg&#34; alt=&#34;Source Image&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;my-attempt:1ce7f40f59b760fcdbde573ac4a2a41a&#34;&gt;My attempt&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://i.imgur.com/L2ibZ3Ph.png&#34;&gt;&lt;img src=&#34;http://i.imgur.com/L2ibZ3Pl.png&#34; alt=&#34;My attempts at emulating the source image&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://i.imgur.com/L2ibZ3Ph.png&#34;&gt;&lt;img itemprop=&#34;image&#34; src=&#34;http://i.imgur.com/L2ibZ3Pl.png&#34; alt=&#34;My attempts at emulating the source image&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
