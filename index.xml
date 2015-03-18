@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arthur&#39;s Ridiculous Text Expression Machine</title>
-    <link>http://arvinsim.github.io/artem/</link>
+    <link>http://localhost:1313/artem/</link>
     <description>Recent content on Arthur&#39;s Ridiculous Text Expression Machine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Mar 2015 22:47:15 +0800</lastBuildDate>
-    <atom:link href="http://arvinsim.github.io/artem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/artem/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Booksale: In Defense of Food</title>
-      <link>http://arvinsim.github.io/artem/literary/booksale-in-defense-of-food/</link>
+      <link>http://localhost:1313/artem/literary/booksale-in-defense-of-food/</link>
       <pubDate>Thu, 12 Mar 2015 22:47:15 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/literary/booksale-in-defense-of-food/</guid>
+      <guid>http://localhost:1313/artem/literary/booksale-in-defense-of-food/</guid>
       <description>&lt;p&gt;I was browsing the book selection of Booksale&amp;rsquo;s branch in Gaisano last week. I was looking for a certain &lt;a href=&#34;https://en.wikipedia.org/wiki/Founders_at_Work&#34;&gt;book&lt;/a&gt; that I am sure I saw before. I examined as many books that I could-going as far as inspecting the books in the lower shelves. Unfortunately, I wasn&amp;rsquo;t able to find it.&lt;/p&gt;
 
 &lt;p&gt;Today, I was supposed to buy some groceries for my weekly meals after work. But it bugged me that I was only able to partially examine the book selection the last time I visited. So I decided to pay Booksale another visit.&lt;/p&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>Vector Art 1: Kirby</title>
-      <link>http://arvinsim.github.io/artem/visual/drawing/vector-1-kirby/</link>
+      <link>http://localhost:1313/artem/visual/drawing/vector-1-kirby/</link>
       <pubDate>Wed, 11 Mar 2015 21:53:57 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/visual/drawing/vector-1-kirby/</guid>
+      <guid>http://localhost:1313/artem/visual/drawing/vector-1-kirby/</guid>
       <description>
 
 &lt;p&gt;This is an attempt to draw &lt;a href=&#34;http://en.wikipedia.org/wiki/Kirby_%28character%29&#34;&gt;Kirby&lt;/a&gt;, a famous fictional character from Nintendo. I chose this character because it is easy to draw. But I underestimated how much time I needed to actually emulate the image. The gradients took most of my time since I am still not familiar with the software.&lt;/p&gt;
@@ -51,10 +51,10 @@
     
     <item>
       <title>Logophilia March 3, 2015</title>
-      <link>http://arvinsim.github.io/artem/literary/logophilia-2015-03-05/</link>
+      <link>http://localhost:1313/artem/literary/logophilia-2015-03-05/</link>
       <pubDate>Thu, 05 Mar 2015 20:00:33 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/literary/logophilia-2015-03-05/</guid>
+      <guid>http://localhost:1313/artem/literary/logophilia-2015-03-05/</guid>
       <description>
 
 &lt;p&gt;I am reading the book &lt;a href=&#34;http://www.amazon.com/Writing-Well-30th-Anniversary-Edition/dp/0060891548&#34;&gt;On Writing Well&lt;/a&gt;, a book that gives advice on how to improve my nonfiction writing. I came across this words while reading the beginning parts.&lt;/p&gt;
@@ -105,10 +105,10 @@
     
     <item>
       <title>Mini Western Omelette</title>
-      <link>http://arvinsim.github.io/artem/culinary/mini-western-omelette/</link>
+      <link>http://localhost:1313/artem/culinary/mini-western-omelette/</link>
       <pubDate>Mon, 16 Feb 2015 22:27:11 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/culinary/mini-western-omelette/</guid>
+      <guid>http://localhost:1313/artem/culinary/mini-western-omelette/</guid>
       <description>
 
 &lt;p&gt;For this week, I choose to cook a variation of an omelette that has a distinctive western taste.&lt;/p&gt;
@@ -141,10 +141,10 @@
     
     <item>
       <title>Love Everlasting by DDRkirby</title>
-      <link>http://arvinsim.github.io/artem/performance/music/love-everlasting-by-ddrkirby/</link>
+      <link>http://localhost:1313/artem/performance/music/love-everlasting-by-ddrkirby/</link>
       <pubDate>Thu, 12 Feb 2015 22:35:32 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/performance/music/love-everlasting-by-ddrkirby/</guid>
+      <guid>http://localhost:1313/artem/performance/music/love-everlasting-by-ddrkirby/</guid>
       <description>
 
 &lt;h1 id=&#34;when-the-outro-came-in:f452199f65a771ade9252ead898f6acb&#34;&gt;When the Outro came in&lt;/h1&gt;
@@ -168,10 +168,10 @@ Games like &lt;a href=&#34;https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_%281
     
     <item>
       <title>Starting Vector Art</title>
-      <link>http://arvinsim.github.io/artem/visual/drawing/starting-vector-art/</link>
+      <link>http://localhost:1313/artem/visual/drawing/starting-vector-art/</link>
       <pubDate>Sun, 08 Feb 2015 15:44:55 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/visual/drawing/starting-vector-art/</guid>
+      <guid>http://localhost:1313/artem/visual/drawing/starting-vector-art/</guid>
       <description>
 
 &lt;h2 id=&#34;the-other-side-of-the-fence:29de3aa4c61cac74984fb82cb265c6f3&#34;&gt;The other side of the fence&lt;/h2&gt;
@@ -278,10 +278,10 @@ Games like &lt;a href=&#34;https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_%281
     
     <item>
       <title>Black Mirror Season 1 Episode 2</title>
-      <link>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-2/</link>
+      <link>http://localhost:1313/artem/performance/tv/black-mirror-season-1-episode-2/</link>
       <pubDate>Tue, 03 Feb 2015 15:00:15 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-2/</guid>
+      <guid>http://localhost:1313/artem/performance/tv/black-mirror-season-1-episode-2/</guid>
       <description>
 
 &lt;h2 id=&#34;details:f809e3f55e3fcaeb9cf53f6bad8ec67c&#34;&gt;Details&lt;/h2&gt;
@@ -318,10 +318,10 @@ Games like &lt;a href=&#34;https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_%281
     
     <item>
       <title>Book Review: The War of Art</title>
-      <link>http://arvinsim.github.io/artem/literary/the-war-of-art-book-review/</link>
+      <link>http://localhost:1313/artem/literary/the-war-of-art-book-review/</link>
       <pubDate>Mon, 02 Feb 2015 22:42:59 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/literary/the-war-of-art-book-review/</guid>
+      <guid>http://localhost:1313/artem/literary/the-war-of-art-book-review/</guid>
       <description>
 
 &lt;h2 id=&#34;details:f8cd6a78e60b83800c58e39b789b8533&#34;&gt;Details&lt;/h2&gt;
@@ -382,10 +382,10 @@ Games like &lt;a href=&#34;https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_%281
     
     <item>
       <title>Logophilia January 31, 2015</title>
-      <link>http://arvinsim.github.io/artem/literary/logophilia-2015-01-31/</link>
+      <link>http://localhost:1313/artem/literary/logophilia-2015-01-31/</link>
       <pubDate>Sat, 31 Jan 2015 23:01:00 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/literary/logophilia-2015-01-31/</guid>
+      <guid>http://localhost:1313/artem/literary/logophilia-2015-01-31/</guid>
       <description>
 
 &lt;p&gt;It has been a long time since I read some paperback from my bookshelf. I decided to take one book and try to finish it despite my preference for ebooks. I chose the &lt;a href=&#34;http://www.amazon.com/Father-Brown-Omnibus-Preface-Auberon/dp/0396081592/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1425560311&amp;amp;sr=1-1&amp;amp;keywords=father+brown+omnibus&#34;&gt;Father Brown Mysteries&lt;/a&gt;, the most accessible writing of &lt;a href=&#34;http://en.wikipedia.org/wiki/G._K._Chesterton&#34;&gt;G.K. Chesterton&lt;/a&gt;, one of my favorite British author and philospher.&lt;/p&gt;
@@ -531,10 +531,10 @@ Games like &lt;a href=&#34;https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_%281
     
     <item>
       <title>Black Mirror Season 1 Episode 1</title>
-      <link>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-1/</link>
+      <link>http://localhost:1313/artem/performance/tv/black-mirror-season-1-episode-1/</link>
       <pubDate>Sat, 31 Jan 2015 15:00:08 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/performance/tv/black-mirror-season-1-episode-1/</guid>
+      <guid>http://localhost:1313/artem/performance/tv/black-mirror-season-1-episode-1/</guid>
       <description>
 
 &lt;h2 id=&#34;details:dd909382ff31b3d167bc91250317a093&#34;&gt;Details&lt;/h2&gt;

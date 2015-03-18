@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visuals on Arthur&#39;s Ridiculous Text Expression Machine</title>
-    <link>http://arvinsim.github.io/artem/visual/</link>
+    <link>http://localhost:1313/artem/visual/</link>
     <description>Recent content in Visuals on Arthur&#39;s Ridiculous Text Expression Machine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Mar 2015 21:53:57 +0800</lastBuildDate>
-    <atom:link href="http://arvinsim.github.io/artem/visual/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/artem/visual/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Vector Art 1: Kirby</title>
-      <link>http://arvinsim.github.io/artem/visual/drawing/vector-1-kirby/</link>
+      <link>http://localhost:1313/artem/visual/drawing/vector-1-kirby/</link>
       <pubDate>Wed, 11 Mar 2015 21:53:57 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/visual/drawing/vector-1-kirby/</guid>
+      <guid>http://localhost:1313/artem/visual/drawing/vector-1-kirby/</guid>
       <description>
 
 &lt;p&gt;This is an attempt to draw &lt;a href=&#34;http://en.wikipedia.org/wiki/Kirby_%28character%29&#34;&gt;Kirby&lt;/a&gt;, a famous fictional character from Nintendo. I chose this character because it is easy to draw. But I underestimated how much time I needed to actually emulate the image. The gradients took most of my time since I am still not familiar with the software.&lt;/p&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>Starting Vector Art</title>
-      <link>http://arvinsim.github.io/artem/visual/drawing/starting-vector-art/</link>
+      <link>http://localhost:1313/artem/visual/drawing/starting-vector-art/</link>
       <pubDate>Sun, 08 Feb 2015 15:44:55 +0800</pubDate>
       
-      <guid>http://arvinsim.github.io/artem/visual/drawing/starting-vector-art/</guid>
+      <guid>http://localhost:1313/artem/visual/drawing/starting-vector-art/</guid>
       <description>
 
 &lt;h2 id=&#34;the-other-side-of-the-fence:29de3aa4c61cac74984fb82cb265c6f3&#34;&gt;The other side of the fence&lt;/h2&gt;
