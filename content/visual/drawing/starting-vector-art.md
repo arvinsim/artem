@@ -33,7 +33,7 @@ I believe that to create digital paintings, you need a drawing tablet. Unfortuna
 
 Unfortunately, I will pass on this one.
 
-<a href="http://i.imgur.com/Z8xkYpCl.jpg"><img src="http://i.imgur.com/Z8xkYpCm.jpg" alt="RDog showing a raspberry"></a>
+{{< linkimg href="http://i.imgur.com/Z8xkYpCl.jpg" src="http://i.imgur.com/Z8xkYpCm.jpg" alt="Dog showing a raspberry" >}}
 
 ### Pixel Art
 
@@ -43,7 +43,7 @@ But creating it takes a lot of hard work and dedication. Resizing it to fit many
 
 I always smile when I see pixel art. But I will just enjoy looking at rather than creating it when it comes to the web.
 
-<a href="http://i.imgur.com/Zip2xaxh.jpg"><img src="http://i.imgur.com/Zip2xaxl.jpg" alt="Pixel Art Apocalypse"></a>
+{{< linkimg href="http://i.imgur.com/Zip2xaxh.jpg" src="http://i.imgur.com/Zip2xaxl.jpg" alt="Pixel Art Apocalypse" >}}
 
 ### Vector Art
 
@@ -59,7 +59,7 @@ I always smile when I see pixel art. But I will just enjoy looking at rather tha
 
 - *Vector art lends itself well to flat design*. 
 
-<a href="http://i.imgur.com/qS3sWz0h.jpg"><img src="http://i.imgur.com/qS3sWz0m.jpg" alt="Lady Monk"/></a>
+{{< linkimg href="http://i.imgur.com/qS3sWz0h.jpg" src="http://i.imgur.com/qS3sWz0m.jpg" alt="Lady Monk" >}}
 
 ## Choosing what software to use
 
@@ -89,4 +89,4 @@ I decided to just spice up the background of my [github organization page](http:
 
 I used triangles and squares to create a simple mosaic background.
 
-<a href="http://i.imgur.com/ln01b2Nh.png"><img itemprop="image" src="http://i.imgur.com/ln01b2Nm.png" alt="Vector Art 1"></a>
+{{< linkimg href="http://i.imgur.com/ln01b2Nh.png" src="http://i.imgur.com/ln01b2Nm.png" alt="Vector Art 1" >}}

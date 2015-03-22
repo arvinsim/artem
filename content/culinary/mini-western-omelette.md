@@ -33,6 +33,6 @@ I tried putting grated cheese on some omelettes while I put small cheese cubes f
 
 ## Screenshots
 
-<a href="http://i.imgur.com/GsN2d3Dh.jpg"><img itemprop="image" src="http://i.imgur.com/GsN2d3Dm.jpg" alt="Mini western omelettes in a container"/></a>
-<a href="http://i.imgur.com/OqzAkkih.jpg"><img itemprop="image" src="http://i.imgur.com/OqzAkkim.jpg" alt="Another picture of mini western omelettes"></a>
-<a href="http://i.imgur.com/fgMj1xuh.jpg"><img itemprop="image" src="http://i.imgur.com/fgMj1xum.jpg" alt="A single mini western omelette"/></a> 
+{{< linkimg href="http://i.imgur.com/GsN2d3Dh.jpg" src="http://i.imgur.com/GsN2d3Dm.jpg" alt="Mini western omelettes in a container" >}}
+{{< linkimg href="http://i.imgur.com/OqzAkkih.jpg" src="http://i.imgur.com/OqzAkkim.jpg" alt="Another picture of mini western omelettes" >}}
+{{< linkimg href="http://i.imgur.com/fgMj1xuh.jpg" src="http://i.imgur.com/fgMj1xum.jpg" alt="A single mini western omelette" >}} 

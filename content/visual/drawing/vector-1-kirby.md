@@ -16,8 +16,8 @@ I used [Inkscape](https://inkscape.org/en/) to draw and [Gpick](http://www.gpick
 
 ## Source image
 
-<a href="http://i.imgur.com/kPLr11Ch.jpg"><img itemprop="image" src="http://i.imgur.com/kPLr11Cm.jpg" alt="Source Image"/></a>
+{{< linkimg href="http://i.imgur.com/kPLr11Ch.jpg" src="http://i.imgur.com/kPLr11Cm.jpg" alt="Source Image" >}}
 
 ## My attempt
 
-<a href="http://i.imgur.com/L2ibZ3Ph.png"><img itemprop="image" src="http://i.imgur.com/L2ibZ3Pl.png" alt="My attempts at emulating the source image"/></a>
+{{< linkimg href="http://i.imgur.com/L2ibZ3Ph.png" src="http://i.imgur.com/L2ibZ3Pl.png" alt="My attempts at emulating the source image" >}}
