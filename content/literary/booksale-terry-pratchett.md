@@ -8,10 +8,13 @@ title = "booksale terry pratchett"
 status = "recording"
 +++
 
-// Main Thought: A statement that encapsulates why through the trouble of going through all the books in Booksale--especially in hard places--pays off. Also hint or foreshadow how lucky you got finding 4 Terry Pratchett books
-It pays to be patient when shopping in Booksale.
+Browsing through all the books in a used books store is often a fruitless endeavor. But once a while, the search yields gems of reading material among the junk. In my case, I started out to find a book that I delayed buying since last week. I ended up buying 6 books that I never knew I wanted instead.
+
 
 // Main Thought: Explain why you decided to visit Booksale that day. Emphasize how the Dilbert principle book was a big deal to you that you had to go back to it after a week.
+It has been a long while since I have visited SM Booksale. Last week, I was poring through all the books to see if there is anything that interests me. A hardbound copy of [The Dilbert Principle] caught my eye. This book is really well known around the tech community for its biting satire on corporate culture. I hoped that the price justified that 
+
+
 Last week, I was browsing Booksale. While leafing through the books, I came across the [Dilbert principle](), a book famous for its satirical commentary on corporate culture. I wanted to buy the book but the 170PhP price is not something I can just close my eyes to. I decided that it would be better to wait for a week. If I still want to buy that back, I can just go back to the store.
 
 // Main Thought: Show how regretful you were that you weren't able to buy the Dilbert book. At the end of the paragraph, contrast it a sentence that hints at how amazing your book haul for the day was.
