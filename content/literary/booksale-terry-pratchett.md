@@ -12,7 +12,7 @@ Browsing through all the books in a used books store is often a fruitless endeav
 
 
 // Main Thought: Explain why you decided to visit Booksale that day. Emphasize how the Dilbert principle book was a big deal to you that you had to go back to it after a week.
-It has been a long while since I have visited SM Booksale. Last week, I was poring through all the books to see if there is anything that interests me. A hardbound copy of [The Dilbert Principle] caught my eye. This book is really well known around the tech community for its biting satire on corporate culture. I hoped that the price justified that 
+It has been a long while since I have visited SM Booksale. Last week, I was poring through all the books to see if there is anything that interests me. A hardbound copy of [The Dilbert Principle] caught my eye. This book is really well known around the tech community for its biting satire on corporate culture. I knew that this is a book that I wanted to own in the physical world. But the price made me hesitate. My mind objected that 170PhP might be too steep of a price to pay for the book. It pained me to put the book back in the shelf. But I decided that it would be beter to wait.
 
 
 Last week, I was browsing Booksale. While leafing through the books, I came across the [Dilbert principle](), a book famous for its satirical commentary on corporate culture. I wanted to buy the book but the 170PhP price is not something I can just close my eyes to. I decided that it would be better to wait for a week. If I still want to buy that back, I can just go back to the store.
