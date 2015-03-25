@@ -11,20 +11,21 @@ status = "recording"
 Browsing through all the books in a used books store is often a fruitless endeavor. But once a while, the search yields gems of reading material among the junk. In my case, I started out to find a book that I delayed buying since last week. I ended up buying 6 books that I never knew I wanted instead.
 
 
-// Main Thought: Explain why you decided to visit Booksale that day. Emphasize how the Dilbert principle book was a big deal to you that you had to go back to it after a week.
-It has been a long while since I have visited SM Booksale. Last week, I was poring through all the books to see if there is anything that interests me. A hardbound copy of [The Dilbert Principle] caught my eye. This book is really well known around the tech community for its biting satire on corporate culture. I knew that this is a book that I wanted to own in the physical world. But the price made me hesitate. My mind objected that 170PhP might be too steep of a price to pay for the book. It pained me to put the book back in the shelf. But I decided that it would be beter to wait.
+It has been a while since I have visited SM Booksale. Last week, I was poring through all the books to see if there are any interesting books. A hardbound copy of [The Dilbert Principle] caught my eye. This book is really well known around the tech community for its biting satire on corporate culture. I knew that this is a book that I wanted to own in the physically. But then, I discovered that the price was 170PhP was too steep for my taste. As much as I wanted to buy it, I decided it would be better to wait and come back after I could justify buying it.
 
+Unfortunately, I never saw that book again. When I finally decided that the book was worth buying, the book was already gone. A stubborn part of me went over the books again but it cannot be found. I regretted not buying it the first time I found it.
 
-Last week, I was browsing Booksale. While leafing through the books, I came across the [Dilbert principle](), a book famous for its satirical commentary on corporate culture. I wanted to buy the book but the 170PhP price is not something I can just close my eyes to. I decided that it would be better to wait for a week. If I still want to buy that back, I can just go back to the store.
 
 // Main Thought: Show how regretful you were that you weren't able to buy the Dilbert book. At the end of the paragraph, contrast it a sentence that hints at how amazing your book haul for the day was.
 Unfortunately, it was not meant to be. I tried to buy that back but I don't see it in the place that I left it anymore. I tried to go over all the books in the store but I can't find it anymore. I deduced that someone might have already bought it or it was shipped to another branch. I regretted not buying it last week.
 
+But all the effort paid off. While I was going through books, I came across books that are proven to be popular. The books that are found are authored by Terry Pratchett, Bill Bryson and Daniel Kahneman 
+
 ## Terry Pratchett
-// Tell why you decided to buy the Terry Pratchett books
+// Brief description of Terry Pratchett and what makes his books compelling.
+Terry Pratchett is a recently deceased author I have been meaning to check out a long time ago. The only reason I haven't checked him out is because his books don't usually show up in Booksale. In the span of 4 years, I only see [2]() [books]() by him. But now I was able to find 4 of them.
 
-But all was not in vain. While I was going through the books to find the [Dilbert Principle](), I came across books by Terry Pratchett. He is a recently deceased author I have been meaning to check out a long time ago. The only reason I haven't checked him out is because his books don't usually show up in Booksale. In the span of 4 years, I only see [2]() [books]() by him. But now I was able to find 4 of them.
-
+// Narrate how the books were found
 I was able to procure them from the lower section part of the bookshelves. It pays to be patiently sifting through the books. You will never know what you can find in there.
 
 ## A Brief History Of Nearly Everything
