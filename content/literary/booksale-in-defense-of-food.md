@@ -18,6 +18,6 @@ There were 2 books that interested me. One was a book on [compilers](https://en.
 
 It was hard choosing which one to buy. But I decided to buy the book on food for many reasons. It was cheap. It doesn't get as outdated as fast as technology books. I am also confident that there are free resources in the internet that is as comprehensive as the "Red Dragon" book.
 
-{{< linkimg href="http://i.imgur.com/oxa6dUo.jpg" src="http://i.imgur.com/oxa6dUom.jpg" alt="In Defense of Food - An Eater's Manifesto" >}}
+[In Defense of Food - An Eater's Manifesto](http://i.imgur.com/rq4HWr3m.jpg)
 
 
