@@ -1,11 +1,10 @@
-+++
-articleTypes = [""]
+++
+articleTypes = ["blog"]
 date = "2015-03-14T21:26:21+08:00"
-description = ""
+description = "Found a treasure trove of books"
 discipline = ["literary"]
-draft = true
-title = "booksale terry pratchett"
-status = "recording"
+title = "Booksale: Pratchett, Bryson and Kahneman"
+tags = ["books", "booksale"]
 +++
 
 Browsing through all the books in a used books store is often a fruitless endeavor. But once a while, the search yields gems of reading material among the junk. In my case, I started out to find a book that I delayed buying since last week. I ended up buying 6 books that I never knew I wanted instead.
@@ -26,6 +25,11 @@ Combing the books in <!-- noun that means the lower area/part of a shelf/bookshe
 
 But it did not stop there. I uncovered [Reaper Man](http://address), [The Last Continent](http://address) and [Sourcery](http://address) in quick succession in that <!-- adjective that means a suffocating small place -->. I was elated that I can finally start reading Terry's books.
 
+[The Last Continent](http://i.imgur.com/urxF5OFm.jpg)
+[The Truth](http://i.imgur.com/S09GwVMm.jpg)
+[Thief of Time](http://i.imgur.com/mPcsB9xm.jpg)
+[Reaper Man](http://i.imgur.com/GSZVdkKm.jpg)
+
 ## A Brief History Of Nearly Everything
 
 // Admit that you don't know a lot of this book. Explain that you bought because of 2 things. One, it is universally recommended by people at Reddit. Two, you know that you father like historical fiction like books from James Michener. Although this book is not fiction, you heard that it was one of the most interesting history book out there.
@@ -33,7 +37,6 @@ But it did not stop there. I uncovered [Reaper Man](http://address), [The Last C
 Now I was really worried that I can't find that Dilbert book. My mind still denies the logical conclusion that someone beat me to it. I was checking out the side of bookshelve where softbound copies of health-related books are on display. I nearly missed the [A Brief History of Nearly Everything]() by [Bill Bryson]() which was hiding in plain sight. For only 75PhP for a relatively book, I think it was worth buying.
 
 [A Brief History Of Nearly Everything](http://i.imgur.com/RhcOHDem.jpg)
-
 
 ## Thinking, Fast and Slow
 // Emphasize how cheap you got the book at first but then slowly explain why getting it cheap is a big deal.
