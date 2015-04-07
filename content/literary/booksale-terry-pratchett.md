@@ -17,6 +17,7 @@ Unfortunately, I never saw that book again. When I finally decided that the book
 But all the crouching and <!-- verb that denotes crawling into tight spaces  --> paid off. While I was going through books, I came across books that are recommended in [Reddit](http://address), a site that I often reference for reviews. This includes books that are found are authored by Terry Pratchett, Bill Bryson and Daniel Kahneman.
 
 ## Terry Pratchett
+
 They say that people only become more popular once they died. Terry Pratchett has become one recently. They also observed that anything related to that person will suddenly become more expensive. As someone who don't have his books, I hope you can forgive me for believing this notion and become <!-- noun that means very observant --> on any bargains on his books.
 
 His books are available in booksale only in very <!-- adjective that means very infrequent, sparse --> amounts. I remember seeing old paperback versions of [The Colour of Magic](http://address) and [Small Gods](http://address) before in SM Booksale. Many times I also encountered the hardbound version of [Hogfather](http://address) twice in two different Booksale branches. I bought [A Hat Full of Sky](http://address) on a whim, not caring if that book is the first in the series. Now that I have acquired the information on Terry Pratchett's bibliography, it makes me sad that the most recommended books were not available in Booksale.
@@ -32,9 +33,11 @@ But it did not stop there. I uncovered [Reaper Man](http://address), [The Last C
 
 ## A Brief History Of Nearly Everything
 
-// Admit that you don't know a lot of this book. Explain that you bought because of 2 things. One, it is universally recommended by people at Reddit. Two, you know that you father like historical fiction like books from James Michener. Although this book is not fiction, you heard that it was one of the most interesting history book out there.
+I was still hoping to see the Dilbert book when this book caught my eye. Hiding under a big stack of books was a big softbound copy of [A Brief History of Nearly Everything](http://address) by [Bill Bryson](http://address). Prior to reading Reddit, I knew nothing about this book. However, it has been mentioned many times that I thought it couldn't be bad if it could get a lot of redditors to vouch for it.
 
-Now I was really worried that I can't find that Dilbert book. My mind still denies the logical conclusion that someone beat me to it. I was checking out the side of bookshelve where softbound copies of health-related books are on display. I nearly missed the [A Brief History of Nearly Everything]() by [Bill Bryson]() which was hiding in plain sight. For only 75PhP for a relatively book, I think it was worth buying.
+My father loves historical speculative fiction like the works of James Michener. I figured that he would love to have a book like this in our shelf.
+
+I compared the price of the book, it's thickness and it's potential goodness. 75PhP seems like a bargain to me. I was sold.
 
 [A Brief History Of Nearly Everything](http://i.imgur.com/RhcOHDem.jpg)
 
@@ -45,6 +48,4 @@ While I was already on my way on finishing my purchases, my eye went to the medi
 
 Hesitation didn't have a chance to intervene. I included it in my haul.
 
-[Thinking, Fast and Slow](http://i.imgur.com/baCc3J4m.jpg)
-
-## Pics
+[Thinking, Fast and Slow](http://i.imgur.com/baCc3J4m.jpg) 
