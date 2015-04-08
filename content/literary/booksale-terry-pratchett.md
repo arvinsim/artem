@@ -44,8 +44,8 @@ I compared the price of the book, it's thickness and it's potential goodness. 75
 ## Thinking, Fast and Slow
 // Emphasize how cheap you got the book at first but then slowly explain why getting it cheap is a big deal.
 
-While I was already on my way on finishing my purchases, my eye went to the medical section of the store which was near the counter. I was elated when I found out that [Thinking, Fast and Slow]() book was there. I called a friend of mine who already bought this book to ask how much the price is. He said it was worth 600PhP. The price marker on the book I was holding showed 155PhP.
+While I was already on my way on finishing my purchases, my eyes went to the medical section near the counter. I was elated when I found out that [Thinking, Fast and Slow]() book was there. I called a friend of mine who already bought this book to ask how much the price is. He said it was worth 600PhP. The price marker on the book I was holding showed 155PhP.
 
-Hesitation didn't have a chance to intervene. I included it in my haul.
+I did not hesitate. I grabbed the book immediately; I wasn't going to make the same mistake twice.
 
 [Thinking, Fast and Slow](http://i.imgur.com/baCc3J4m.jpg) 
