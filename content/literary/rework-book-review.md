@@ -22,11 +22,11 @@ The book is divided into many parts.
 
 ## What insights did you get from the book?
 
-I am not well-versed in entreprenuership so I learned a lot while reading this book.
+I am not well-versed in entreprenuership so I learned a lot while reading this book. The prose is very down to earth and easy to understand.
 
 ## What is your recommendation?
 
-This book is worth the omney
+This book is work the money. This is a reference book that you can read over and over again.
 
 ## Rating
 
