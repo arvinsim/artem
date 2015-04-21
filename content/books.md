@@ -16,6 +16,8 @@ title = "Books Reading List"
 
 Quiet: The Power of Introverts in a World That Can't Stop Talking - Susan Cain
 
+No More Mr. Nice Guy - Dr. Robert Glover
+
 ## Physical 
 
 Hitchhiker's Guide to the Galaxy - Douglas Adams
