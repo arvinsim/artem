@@ -17,3 +17,5 @@ Joking aside, the reason I read this book is to delve more into Catholicism.
 This isn't my first though and other books had more impact on me. But this was one was a good read in mobile while doing my daily commutes.
 
 ## Quotes that impacted to you.
+
+Get it from Google Keep
